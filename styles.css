@@ -1,0 +1,58 @@
+body {
+    font-family: roboto, Arial, Helvetica, sans-serif;
+    padding: auto;
+    margin: auto;
+}
+
+.hero {
+    background-color: #1F2937;
+    font-size: 48px;
+    color: #F9FaF8;      
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+
+.italics {
+    font-style: italic;
+}
+
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+button {
+    color: #3882F6;
+}
+
+
+
+footer {
+    background-color: #1F2937;
+}
